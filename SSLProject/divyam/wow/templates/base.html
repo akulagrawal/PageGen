@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+                <!-- Latest compiled and minified CSS -->
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+            <!-- jQuery library -->
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+            <!-- Latest compiled JavaScript -->
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+            <link href="https://fonts.googleapis.com/css?family=Spectral+SC" rel="stylesheet">
+
+            <link rel="stylesheet" href="{% static 'wow/css/master.css' %}">
+</head>
+<body>
+
+    <nav class="navbar mynav" role="navigation" id="navbar">
+        <div class="container">
+            <a class="navbar-brand mynav" href="{% url 'home' %}">heading</a>
+
+            <ul class="nav navbar-nav navbar-right">
+                {% if user.is_authenticated %}
+                <li><a href ="#">Post</a></li>
+                <li><a href ="#">Groups</a></li>
+                <li><a href ="#">Create Group</a></li>
+                <li><a href ="{% url 'accounts:logout' %}">Log Out</a></li>
+
+                {% else %}
+                <li><a href ="#">Groups</a></li>
+                <li><a href ="{% url 'accounts:login' %}">Login</a></li>
+                <li><a href ="{% url 'accounts:signup' %}">Sign Up</a></li>
+                {% endif %}
+            </ul>
+
+
+
+        </div>
+
+
+    </nav>
+
+    <div class="container mycontent">
+     {% block content %}
+
+        {% endblock %}
+
+    </div>
+
+</body>
+</html>
