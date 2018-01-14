@@ -1,0 +1,28 @@
+Machine Learning and Applications in Computational Biology, Systems Biology, Biomedical NLP, NLP, Deep Learning, Evolutionary Algorithms.
+Data Mining
+Operating Systems, Distributed Systems, Networks, Database Management Systems
+Evolving Intelligent Systems, Computational Intelligence, Online Machine Learning, Learning from Data Streams
+Formal Verification and Analysis of Embedded Systems, Interface and Contract Theories for Component-based Design
+Human Computer Interaction, User Modeling, Model Based Evaluation of Interactive Systems, Rehabilitation Engineering
+Networking, Fault Tolerance, VLSI Testing, Embedded Systems
+Digital Signal Processing, Speech Processing, Man-Machine Intelligence Systems
+Formal Modelling and Verification, CAD for VLSI and Embedded Systems (Design, Testing and Verification), Data Mining
+Distributed Systems, Software Engineering
+Algorithms, Computational Geometry
+Computer Architecture, Network on Chips (NoC), Memory System Design for Multicore Processors
+Word Combinatorics, Algorithms and Combinatorics
+Multiprocessor Computer Architecture, Formal Methods, Network-on-Chip Design, Asynchronous Systems
+Formal Verification, Electronic Design Automation with special interest in High-level Synthesis, Embedded System Verification, Verification of Compiler Optimizations.
+Distributed Algorithms, Fault-Tolerance, Distributed Algorithms for ad-hoc and sensor networks
+Computational Commutative Algebra, Data Streaming
+Computational Geometry, Parallel Algorithms, Randomized Algorithms, Optimization
+Artificial Intelligence, Intelligent and Bio-Inspired Robotics, Emotional Robots, Mobile Agent based systems, Artificial Immune Systems, Cyber-physical Systems, Natural Language Processing, Genetic Algorithms, Fuzzy Systems &amp; Neural Networks
+Networks (QoS, Wireless Networks), Computer and Network Security, VLSI
+Computational Geometry and Applications
+Multicore (Architecture, Scheduling and Programming) and Computational Social Systems
+External Memory Algorithms, Algorithmic Game Theory, Parallel and Distributed Algorithms, Complexity Theory
+Machine Learning, Kernel Methods, Data Mining and their applications
+Real-Time and Embedded Systems, Computer Architecture, Algorithms
+Open Source Intelligence (Social Media/Social Network Analysis), Information Retrieval, NLP
+Computer Vision, Image and Video Processing, Media Forensics:  Image and Video Watermarking, Steganography, Steganalysis, Multimedia Streaming.
+Computer Networks
